@@ -1,6 +1,6 @@
 # University Certificate in Artificial Intelligence (Hands-on AI, Third Challenge) at the University of Mons (2023-2024)
 
-This is a repository to organize the teaching material for [Hands on AI, Third Challenge](https://web.umons.ac.be/fpms/fr/formations/intelligence-artificielle-hands-on-ai/), to be taught by [Souhaib Ben Taieb](http://www.souhaib-bentaieb.com) with [Tanguy Bosser](https://staff.umons.ac.be/Tanguy.BOSSER/) and [Victor Dheur](https://staff.umons.ac.be/Victor.DHEUR/) as teaching assistants.
+Teaching material for [Hands on AI, Third Challenge](https://web.umons.ac.be/fpms/fr/formations/intelligence-artificielle-hands-on-ai/), to be taught by [Souhaib Ben Taieb](http://www.souhaib-bentaieb.com) with [Tanguy Bosser](https://staff.umons.ac.be/Tanguy.BOSSER/) and [Victor Dheur](https://staff.umons.ac.be/Victor.DHEUR/) as teaching assistants.
 
 # Course links
 
