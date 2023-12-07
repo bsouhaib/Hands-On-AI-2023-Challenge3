@@ -6,18 +6,20 @@ Teaching material for [Hands on AI, Third Challenge](https://web.umons.ac.be/fpm
 
 - [Moodle (discussion forum, assignments, etc)](https://moodle.umons.ac.be/course/view.php?id=2666#section-4)
 
-# Content
+# Lecture slides
 
 - Week 1.
-  - [(Notebook)](./Exercises/lab1_exercises.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XK-ZUp6yyUAytB69PFOC16mZdw5w8kRM?usp=sharing))
+  - [Introduction to generative modelling](./slides/week1.pdf)
+
 
 - Week 2. 
 
 - Week 3.
 
-# Exercises
+# Labs
 
 - Week 1. 
+    - [(Notebook)](./Exercises/lab1_exercises.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XK-ZUp6yyUAytB69PFOC16mZdw5w8kRM?usp=sharing))
 
 - Week 2. 
  
