@@ -23,6 +23,7 @@ Teaching material for [Hands on AI, Third Challenge](https://web.umons.ac.be/fpm
     - [(Notebook with solutions)](./Exercises/lab1_solutions.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/Hands-On-AI-2023-Challenge3/blob/main/Exercises/lab1_solutions.ipynb))
 
 - Week 2. 
+    - [(Notebook)](./Exercises/lab2_exercises.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/Hands-On-AI-2023-Challenge3/blob/main/Exercises/lab2_exercises.ipynb))
  
 - Week 3. 
 
