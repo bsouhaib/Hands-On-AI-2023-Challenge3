@@ -11,8 +11,9 @@ Teaching material for [Hands on AI, Third Challenge](https://web.umons.ac.be/fpm
 - Week 1.
   - [Introduction to generative modelling](./slides/week1.pdf)
 
-
 - Week 2. 
+  - [Variational Autoencoders](./slides/week2.pdf)
+
 
 - Week 3.
 
