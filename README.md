@@ -21,6 +21,8 @@ Teaching material for [Hands on AI, Third Challenge](https://web.umons.ac.be/fpm
 
 
 - Week 3.
+  - [Diffusion models](./slides/week3.pdf)
+
 
 # Labs
 
