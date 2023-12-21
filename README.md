@@ -6,6 +6,7 @@ Teaching material for [Hands on AI, Third Challenge](https://web.umons.ac.be/fpm
 # Project
 
 - [Project (PDF)](./project/project.pdf)
+- [Project (code)](./project/project.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/Hands-On-AI-2023-Challenge3/blob/main/project/project.ipynb))
 
 # Course links
 
